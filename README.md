@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+Check the live version [here](https://gracious-fermat-9335c0.netlify.app/) ⚡️
 
 ![desktop](./public/images/desktop.png)
 ![mobile](./public/images/mobile.png)
